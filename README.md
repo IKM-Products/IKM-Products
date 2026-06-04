@@ -5,7 +5,7 @@
 
 ## 💫 About Me:
 
-💡 Passionate about Web Development, Mobile App Development & AI/ML<br>🧠 Currently pursuing Computer Engineering<br>📫 Reach me at ismaelkarkim1110@gmail.com
+💡 Passionate about Web Development, Mobile App Development & AI/ML<br>🧠 Currently pursuing Bachelor's in Computer Engineering<br>📫 Reach me at ismaelkarkim1110@gmail.com
 
 <img align="right" alt="coding" src="https://github-readme-stats.shion.dev/api/top-langs/?username=IKM-Products&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
