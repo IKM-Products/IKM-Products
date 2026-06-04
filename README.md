@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Ismael Karki Manaay</h1>
 <p align="center">
   <img alt="coding" width="400" src="https://i.pinimg.com/originals/21/c9/9c/21c99cc0fa80f67682fa0cdc0889cc8e.gif"/>
-</p>
+</p> 
 
 ## 💫 About Me:
 
