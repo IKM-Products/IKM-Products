@@ -711,7 +711,7 @@ Watch Pac-Man travel across my GitHub contribution history.
   />
 </picture>
 
-<br/>
+<br/><br/>
 
 <img
   src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=2500&pause=900&color=F6C344&center=true&vCenter=true&width=760&lines=READY+PLAYER+ONE!;EATING+COMMITS+ONE+BY+ONE...;CODE.+COMMIT.+LEVEL+UP."
