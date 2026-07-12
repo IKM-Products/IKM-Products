@@ -698,16 +698,16 @@ Watch Pac-Man travel across my GitHub contribution history.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/IKM-Products/IKM-Products/output/pacman-contribution-graph-dark.svg"
+    srcset="https://github.com/IKM-Products/IKM-Products/blob/output/pacman-contribution-graph-dark.svg?raw=true"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/IKM-Products/IKM-Products/output/pacman-contribution-graph.svg"
+    srcset="https://github.com/IKM-Products/IKM-Products/blob/output/pacman-contribution-graph.svg?raw=true"
   />
   <img
     width="100%"
     alt="Pac-Man Contribution Graph"
-    src="https://raw.githubusercontent.com/IKM-Products/IKM-Products/output/pacman-contribution-graph.svg"
+    src="https://github.com/IKM-Products/IKM-Products/blob/output/pacman-contribution-graph.svg?raw=true"
   />
 </picture>
 
