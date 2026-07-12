@@ -1,8 +1,9 @@
 <div align="center">
 
 <img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0B1120,30:1E3A5F,65:74ACDF,100:EAF7FF&text=ISMAEL%20KARKI%20MANAAY&fontColor=FFFFFF&fontSize=40&fontAlignY=38&desc=ENGINEERING%20IDEAS%20INTO%20DIGITAL%20EXPERIENCES&descColor=F6C344&descSize=15&descAlignY=60&animation=fadeIn"
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:000000,18:2C0000,38:8B0000,58:DC2626,78:F97316,100:FACC15&text=ISMAEL%20KARKI%20MANAAY&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Computer%20Engineer%20%E2%80%A2%20Civil%20Sub-Engineer&descColor=FFF7D6&descSize=16&descAlignY=61&animation=fadeIn"
+  alt="Premium Fire Banner"
 />
 
 </div>
@@ -21,11 +22,6 @@ alt="Profile Visitors"
 />
 
 <img
-src="https://img.shields.io/github/followers/IKM-Products?label=FOLLOWERS&style=flat-square&color=F6C344&labelColor=0B1120&logo=github"
-alt="GitHub Followers"
-/>
-
-<img
 src="https://img.shields.io/github/stars/IKM-Products?affiliations=OWNER&label=STARS&style=flat-square&color=EAF7FF&labelColor=0B1120&logo=github&logoColor=white"
 alt="GitHub Stars"
 />
@@ -39,45 +35,27 @@ alt="GitHub Stars"
 
 <td width="56%" valign="top">
 
-<h2>👨‍💻 Developer Profile</h2>
+<h2>📁 profileConfig.js</h2>
 
 ```typescript
-const ismael = {
-  education: "Civil-Sub Engineering & Computer Engineering",
+const profile = {
+  name: "Ismael Karki Manaay",
   location: "Nepal 🇳🇵",
 
-  focus: [
-    "Full-Stack Web Development",
-    "Flutter Mobile Development",
-    "Artificial Intelligence",
-    "Machine Learning",
-    "Research"
+  education: [
+    "BE, Computer Engineering",
+    "9-12 degree in Civil Engineering"
   ],
 
   currentlyLearning: [
     "Next.js",
-    "TypeScript",
-    "Authentication Systems",
+    "Go",
     "PostgreSQL",
-    "Software Architecture"
   ],
 
-  objective: "Build software that solves practical problems"
+  engineeringMindset: "Create. Read. Update. Delete.",
 };
 ```
-
-<p align="justify">
-I am a Computer Engineering student and software developer who enjoys
-transforming ideas into functional, visually engaging and meaningful
-digital products.
-</p>
-
-<p align="justify">
-My work spans full-stack web applications, cross-platform mobile apps,
-authentication systems, API integrations, database-driven platforms and
-machine-learning-powered solutions.
-</p>
-
 </td>
 
 <td width="44%" align="center" valign="middle">
@@ -88,82 +66,10 @@ width="95%"
 alt="Developer Coding Animation"
 />
 
-<br/><br/>
-
 <img
-src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=17&duration=2300&pause=700&color=74ACDF&center=true&vCenter=true&multiline=true&repeat=true&width=460&height=100&lines=Designing+modern+interfaces;Building+full-stack+systems;Creating+Flutter+applications;Exploring+AI+and+machine+learning"
+src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=17&duration=2300&pause=700&color=74ACDF&center=true&vCenter=true&multiline=true&repeat=true&width=460&height=100&lines=Full-Stack%20Web%20Development;Mobile%20App%20Development;AI%2FML%20Enthusiast;Research%20&Innovation"
 alt="Developer Roles"
 />
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<!-- ========================================================= -->
-
-<!--                    NAVIGATION TERMINAL                    -->
-
-<!-- ========================================================= -->
-
-<div align="center">
-
-```text
-┌────────────────────────────── PROFILE NAVIGATION ──────────────────────────────┐
-│  01. ABOUT     02. STACK     03. PROJECTS     04. ANALYTICS     05. CONTACT   │
-└────────────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<br/>
-
-<!-- ========================================================= -->
-
-<!--                      CURRENT STATUS                       -->
-
-<!-- ========================================================= -->
-
-<div align="center">
-
-## ⚡ Current Development Status
-
-</div>
-
-<table>
-<tr>
-
-<td width="25%" align="center" valign="top">
-
-### 🔨 Building
-
-Full-stack web and mobile applications with modern technologies.
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-### 📚 Learning
-
-Next.js, TypeScript, authentication, Prisma and PostgreSQL.
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-### 🧠 Exploring
-
-Artificial intelligence, machine learning and intelligent systems.
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-### 🤝 Available For
-
-Software projects, research work and meaningful collaborations.
 
 </td>
 
@@ -185,103 +91,6 @@ src="https://capsule-render.vercel.app/api?type=transparent&height=18&color=0:74
 
 <!-- ========================================================= -->
 
-<!--                     DEVELOPMENT AREAS                     -->
-
-<!-- ========================================================= -->
-
-<div align="center">
-
-## 🧭 My Development Universe
-
-<p>
-A collection of the areas where I learn, experiment and build.
-</p>
-
-</div>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🌐 Full-Stack Web Engineering
-
-```text
-Frontend       → React, Next.js, TypeScript
-Styling        → Tailwind CSS, Shadcn UI
-Backend        → Node.js, FastAPI
-Database       → PostgreSQL, SQLite, Firebase
-Authentication → NextAuth, Better Auth, Firebase Auth
-```
-
-I build responsive interfaces, dashboards, authentication workflows,
-API-powered platforms and scalable database-driven applications.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📱 Mobile Application Engineering
-
-```text
-Framework      → Flutter
-Language       → Dart
-Backend        → Firebase, REST APIs
-Services       → Geolocation, Weather, Maps
-Platform       → Android
-Architecture   → Reusable and modular components
-```
-
-I create cross-platform applications with location services,
-authentication, API integrations and practical user-focused features.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤖 Artificial Intelligence
-
-```text
-Language       → Python
-Libraries      → Pandas, NumPy, Scikit-learn
-Models         → Random Forest, SVM, Regression
-Deployment     → FastAPI
-Environment    → Jupyter Notebook
-```
-
-I experiment with predictive models, data preprocessing, model
-evaluation and deployment of machine learning systems.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔬 Research and Problem Solving
-
-```text
-Research       → Literature review
-Analysis       → Dataset exploration
-Evaluation     → Metrics and comparison
-Documentation  → Reports and technical writing
-Objective      → Practical real-world solutions
-```
-
-I enjoy connecting software engineering with research to create
-applications that address meaningful problems.
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<!-- ========================================================= -->
-
 <!--                       TECH ARSENAL                        -->
 
 <!-- ========================================================= -->
@@ -289,10 +98,9 @@ applications that address meaningful problems.
 <div align="center">
 
 <img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=rect&height=85&color=0:0B1120,45:1E3A5F,75:74ACDF,100:EAF7FF&text=TECH%20ARSENAL&fontColor=FFFFFF&fontSize=25&fontAlignY=53"
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&height=85&color=0:0B1120,35:1E3A5F,70:74ACDF,100:F6C344&text=TECH%20ARSENAL&fontColor=FFFFFF&fontSize=25&fontAlignY=53"
 />
-
 <br/><br/>
 
 ### Languages
@@ -444,237 +252,6 @@ alt="Development Tools"
 <br/>
 
 <!-- ========================================================= -->
-
-<!--                      FEATURED PROJECTS                    -->
-
-<!-- ========================================================= -->
-
-<div align="center">
-
-<img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=rect&height=85&color=0:EAF7FF,25:74ACDF,70:1E3A5F,100:0B1120&text=FEATURED%20PROJECTS&fontColor=FFFFFF&fontSize=25&fontAlignY=53"
-/>
-
-<p>
-Selected projects demonstrating web, mobile, AI and software engineering.
-</p>
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-
-<td width="12%" align="center" valign="middle">
-
-<h1>🌾</h1>
-
-</td>
-
-<td width="58%" valign="top">
-
-### FARM — AI-Based Crop Recommendation App
-
-A Flutter application that recommends suitable crops by processing soil
-nutrients, live weather data and machine learning predictions.
-
-**Core features:** crop recommendation, live weather integration, fertilizer
-suggestions, prediction history, PDF report generation and result sharing.
-
-</td>
-
-<td width="30%" align="center" valign="middle">
-
-![Flutter](https://img.shields.io/badge/Flutter-74ACDF?style=flat-square\&logo=flutter\&logoColor=0B1120)
-![FastAPI](https://img.shields.io/badge/FastAPI-0B1120?style=flat-square\&logo=fastapi\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-F6C344?style=flat-square\&logo=python\&logoColor=0B1120)
-![Firebase](https://img.shields.io/badge/Firebase-EAF7FF?style=flat-square\&logo=firebase\&logoColor=1E3A5F)
-
-</td>
-
-</tr>
-</table>
-
-<hr/>
-
-<table>
-<tr>
-
-<td width="12%" align="center" valign="middle">
-
-<h1>🏗️</h1>
-
-</td>
-
-<td width="58%" valign="top">
-
-### CivilSync — Construction Project Management System
-
-A modern construction management platform for organizing projects, tasks,
-teams, schedules, progress updates and project information from one system.
-
-**Core features:** project management, team coordination, progress tracking,
-task organization and dashboard analytics.
-
-</td>
-
-<td width="30%" align="center" valign="middle">
-
-![Next.js](https://img.shields.io/badge/Next.js-0B1120?style=flat-square\&logo=nextdotjs\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-74ACDF?style=flat-square\&logo=typescript\&logoColor=0B1120)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EAF7FF?style=flat-square\&logo=postgresql\&logoColor=1E3A5F)
-![Prisma](https://img.shields.io/badge/Prisma-F6C344?style=flat-square\&logo=prisma\&logoColor=0B1120)
-
-</td>
-
-</tr>
-</table>
-
-<hr/>
-
-<table>
-<tr>
-
-<td width="12%" align="center" valign="middle">
-
-<h1>🎬</h1>
-
-</td>
-
-<td width="58%" valign="top">
-
-### AxiosCinema — Movie Browsing Platform
-
-A movie discovery platform for exploring popular movies, searching titles,
-saving favorites and viewing movie information through the TMDB API.
-
-**Core features:** movie search, popular content, favorites management,
-responsive cards and API-powered movie discovery.
-
-</td>
-
-<td width="30%" align="center" valign="middle">
-
-![React](https://img.shields.io/badge/React-74ACDF?style=flat-square\&logo=react\&logoColor=0B1120)
-![TypeScript](https://img.shields.io/badge/TypeScript-EAF7FF?style=flat-square\&logo=typescript\&logoColor=1E3A5F)
-![Axios](https://img.shields.io/badge/Axios-0B1120?style=flat-square\&logo=axios\&logoColor=white)
-![TMDB](https://img.shields.io/badge/TMDB-F6C344?style=flat-square\&logo=themoviedatabase\&logoColor=0B1120)
-
-</td>
-
-</tr>
-</table>
-
-<hr/>
-
-<table>
-<tr>
-
-<td width="12%" align="center" valign="middle">
-
-<h1>✅</h1>
-
-</td>
-
-<td width="58%" valign="top">
-
-### TaskFlow — Productivity and Todo Application
-
-A productivity application designed for creating, organizing, editing and
-tracking tasks, priorities, deadlines and completion status.
-
-**Core features:** task creation, editing, form validation, priority
-management, local storage and deadline tracking.
-
-</td>
-
-<td width="30%" align="center" valign="middle">
-
-![React](https://img.shields.io/badge/React-74ACDF?style=flat-square\&logo=react\&logoColor=0B1120)
-![Zod](https://img.shields.io/badge/Zod-0B1120?style=flat-square\&logo=zod\&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-F6C344?style=flat-square\&logo=tailwindcss\&logoColor=0B1120)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EAF7FF?style=flat-square\&logo=reacthookform\&logoColor=1E3A5F)
-
-</td>
-
-</tr>
-</table>
-
-<hr/>
-
-<table>
-<tr>
-
-<td width="12%" align="center" valign="middle">
-
-<h1>🎮</h1>
-
-</td>
-
-<td width="58%" valign="top">
-
-### GameVault — Game Browsing Platform
-
-A modern game discovery application featuring secure authentication,
-personalized user experiences and database-backed account management.
-
-**Core features:** game discovery, user authentication, protected routes,
-session handling and database integration.
-
-</td>
-
-<td width="30%" align="center" valign="middle">
-
-![Next.js](https://img.shields.io/badge/Next.js-0B1120?style=flat-square\&logo=nextdotjs\&logoColor=white)
-![Better Auth](https://img.shields.io/badge/Better_Auth-74ACDF?style=flat-square\&logoColor=0B1120)
-![Prisma](https://img.shields.io/badge/Prisma-EAF7FF?style=flat-square\&logo=prisma\&logoColor=1E3A5F)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F6C344?style=flat-square\&logo=postgresql\&logoColor=0B1120)
-
-</td>
-
-</tr>
-</table>
-
-<hr/>
-
-<table>
-<tr>
-
-<td width="12%" align="center" valign="middle">
-
-<h1>🗺️</h1>
-
-</td>
-
-<td width="58%" valign="top">
-
-### Guide Me — Smart City Traveler Application
-
-An Android application that helps users discover nearby hotels, hospitals,
-banks, ATMs and tourist attractions with location-aware route navigation.
-
-**Core features:** live location, nearby-place discovery, categorized places,
-route navigation, distance calculation and detailed place information.
-
-</td>
-
-<td width="30%" align="center" valign="middle">
-
-![Java](https://img.shields.io/badge/Java-74ACDF?style=flat-square\&logo=openjdk\&logoColor=0B1120)
-![Android](https://img.shields.io/badge/Android-0B1120?style=flat-square\&logo=android\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-F6C344?style=flat-square\&logo=firebase\&logoColor=0B1120)
-![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-EAF7FF?style=flat-square\&logo=openstreetmap\&logoColor=1E3A5F)
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<!-- ========================================================= -->
 <!--                    PAC-MAN ARCADE GAME                     -->
 <!-- ========================================================= -->
 
@@ -763,37 +340,23 @@ alt="GitHub Streak"
 
 <!-- ========================================================= -->
 
-<!--                    CONTRIBUTION SYSTEM                    -->
-
-<!-- ========================================================= -->
-
-<div align="center">
-
-## 📡 Contribution Signal
-
-<img
-width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=IKM-Products&bg_color=0B1120&color=74ACDF&line=F6C344&point=EAF7FF&area=true&area_color=1E3A5F&hide_border=true&custom_title=Contribution%20Activity"
-alt="Contribution Activity Graph"
-/>
-
-</div>
-
-<br/>
-
-<!-- ========================================================= -->
-
 <!--                        TROPHIES                           -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
-## 🏆 Achievement Cabinet
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=rect&height=85&color=0:0B1120,40:1E3A5F,70:74ACDF,100:F6C344&text=ACHIEVEMENT%20CABINET&fontColor=FFFFFF&fontSize=25&fontAlignY=53"
+/>
+
+<br/><br/>
 
 <img
-src="https://github-profile-trophy.vercel.app/?username=IKM-Products&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6"
-alt="GitHub Trophies"
+  width="100%"
+  src="https://github-profile-trophy.vercel.app/?username=IKM-Products&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10"
+  alt="IKM-Products GitHub Trophies"
 />
 
 </div>
@@ -810,24 +373,10 @@ alt="GitHub Trophies"
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=rect&height=85&color=0:EAF7FF,25:74ACDF,60:1E3A5F,100:0B1120&text=START%20A%20CONVERSATION&fontColor=FFFFFF&fontSize=25&fontAlignY=53"
+src="https://capsule-render.vercel.app/api?type=rect&height=85&color=0:0B1120,40:1E3A5F,70:74ACDF,100:F6C344&text=START%20A%20CONVERSATION&fontColor=FFFFFF&fontSize=25&fontAlignY=53"
 />
 
 <br/>
-
-### Have an idea worth building?
-
-I am open to conversations about software projects, research,
-collaboration opportunities and creative technology ideas.
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ismael-karki-manaay-9675213b4)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow_My_Journey-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/vibes_ikm)
-[![Facebook](https://img.shields.io/badge/Facebook-Let's_Be_Friends-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://facebook.com/vibesikm)
-[![Gmail](https://img.shields.io/badge/Gmail-Send_A_Message-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ismaelkarkim1110@gmail.com)
-
-<br/><br/>
 
 ```text
 while (alive) {
@@ -837,17 +386,8 @@ while (alive) {
     repeat();
 }
 ```
-
 <img
 src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=74ACDF&center=true&vCenter=true&width=760&lines=Thank+you+for+exploring+my+GitHub+profile.;Great+software+starts+with+a+meaningful+idea.;Keep+learning.+Keep+building.+Keep+evolving."
 alt="Footer Typing Animation"
 />
-
-<br/>
-
-<img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:0B1120,35:1E3A5F,70:74ACDF,100:EAF7FF"
-/>
-
 </div>
