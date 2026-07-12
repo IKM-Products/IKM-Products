@@ -1,31 +1,17 @@
 <!--                       About Me                        -->
+
 <div align="center">
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,18:2C0000,38:8B0000,58:DC2626,78:F97316,100:FACC15&text=ISMAEL%20KARKI%20MANAAY&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Computer%20Engineer%20%E2%80%A2%20Civil%20Sub-Engineer&descColor=FFF7D6&descSize=16&descAlignY=61&animation=fadeIn"
-  alt="Premium Fire Banner"
-/><a href="https://www.linkedin.com/in/ismael-karki-manaay-9675213b4">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><a href="https://instagram.com/vibes_ikm">
-<img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a><a href="https://facebook.com/vibesikm">
-<img src="https://img.shields.io/badge/Facebook-Let's_Be_Friends-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,18:2C0000,38:8B0000,58:DC2626,78:F97316,100:FACC15&text=ISMAEL%20KARKI%20MANAAY&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Computer%20Engineer%20%E2%80%A2%20Civil%20Sub-Engineer&descColor=FFF7D6&descSize=16&descAlignY=61&animation=fadeIn" alt="Premium Fire Banner"/><a href="https://www.linkedin.com/in/ismael-karki-manaay-9675213b4">
+<img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=FFD700" alt="LinkedIn"/></a>
+<a href="https://instagram.com/vibes_ikm">
+<img src="https://img.shields.io/badge/Instagram-4A0E0E?style=for-the-badge&logo=instagram&logoColor=FFA500" alt="Instagram"/></a>
+<a href="https://facebook.com/vibesikm"><img src="https://img.shields.io/badge/Facebook-8B0000?style=for-the-badge&logo=facebook&logoColor=FFE082" alt="Facebook"/></a>
 
-</div>
 <br/>
 
-<div align="center">
-<img
-src="https://komarev.com/ghpvc/?username=IKM-Products&label=PROFILE+VISITORS&color=74ACDF&style=flat-square&labelColor=0B1120"
-alt="Profile Visitors"
-/>
-
-<img
-src="https://img.shields.io/github/stars/IKM-Products?affiliations=OWNER&label=STARS&style=flat-square&color=EAF7FF&labelColor=0B1120&logo=github&logoColor=white"
-alt="GitHub Stars"
-/>
+<img src="https://komarev.com/ghpvc/?username=IKM-Products&label=Profile+Visitors&color=DC2626&labelColor=000000&style=flat-square&v=2" alt="Profile Visitors"/>
+<img src="https://img.shields.io/github/stars/IKM-Products?affiliations=OWNER&label=Total+Stars&style=flat-square&color=DC2626&labelColor=000000&logo=github&logoColor=white" alt="GitHub Stars"/>
 
 </div>
 
