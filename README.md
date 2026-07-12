@@ -355,7 +355,7 @@ src="https://capsule-render.vercel.app/api?type=rect&height=85&color=0:0B1120,40
 
 <img
   width="100%"
-  src="https://github-profile-trophy.vercel.app/?username=IKM-Products&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10"
+  src="./github-trophies.svg"
   alt="IKM-Products GitHub Trophies"
 />
 
