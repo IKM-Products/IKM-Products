@@ -48,9 +48,9 @@ const profile = {
 <td width="44%" align="center" valign="middle">
 
 <img
-src="https://i.pinimg.com/originals/f8/0b/79/f80b79563b5b3f1de98a24c5b6069d7f.gif"
-width="95%"
-alt="Developer Coding Animation"
+  src="./assets/coding.gif" width="95%" alt="Coding GIF">
+  width="95%"
+  alt="Coding GIF"
 />
 
 <img
