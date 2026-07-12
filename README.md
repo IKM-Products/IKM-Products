@@ -1,3 +1,4 @@
+<!--                       About Me                        -->
 <div align="center">
 
 <img
@@ -5,11 +6,9 @@
   src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:000000,18:2C0000,38:8B0000,58:DC2626,78:F97316,100:FACC15&text=ISMAEL%20KARKI%20MANAAY&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Computer%20Engineer%20%E2%80%A2%20Civil%20Sub-Engineer&descColor=FFF7D6&descSize=16&descAlignY=61&animation=fadeIn"
   alt="Premium Fire Banner"
 />
-
 </div>
-
 <div align="center">
-
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ismael-karki-manaay-9675213b4)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/vibes_ikm)
 [![Facebook](https://img.shields.io/badge/Facebook-Let's_Be_Friends-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://facebook.com/vibesikm)
@@ -87,66 +86,12 @@ src="https://capsule-render.vercel.app/api?type=transparent&height=18&color=0:74
 
 </div>
 
-<br/>
-
-<!-- ========================================================= -->
-
-<!--                       TECH ARSENAL                        -->
-
-<!-- ========================================================= -->
-
+<!--                       Languages & Tools                        -->
 <div align="center">
-
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=rect&height=85&color=0:0B1120,35:1E3A5F,70:74ACDF,100:F6C344&text=TECH%20ARSENAL&fontColor=FFFFFF&fontSize=25&fontAlignY=53"
-/>
-<br/><br/>
-
-### Languages
-
-<img
-src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,dart&theme=dark"
-alt="Programming Languages"
-/>
-
-<br/><br/>
-
-### Frontend and Interface Development
-
-<img
-src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite&theme=dark"
-alt="Frontend Technologies"
-/>
-
-<br/><br/>
-
-### Mobile Development
-
-<img
-src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark"
-alt="Mobile Development Technologies"
-/>
-
-<br/><br/>
-
-### Backend, Database and Cloud
-
-<img
-src="https://skillicons.dev/icons?i=nodejs,fastapi,firebase,postgresql,sqlite,prisma&theme=dark"
-alt="Backend and Database Technologies"
-/>
-
-<br/><br/>
-
-### Development Tools
-
-<img
-src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm&theme=dark"
-alt="Development Tools"
-/>
-
+<h1> 🔧 Languages & Tools</h1> 
 </div>
+
+![Gemini](https://img.shields.io/badge/google%20gemini-%238E75C2.svg?style=for-the-badge&logo=googlegemini&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23FF0000.svg?style=for-the-badge&logo=firebase&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <br/>
 
@@ -333,34 +278,6 @@ width="75%"
 src="https://streak-stats.demolab.com?user=IKM-Products&hide_border=true&background=0B1120&stroke=1E3A5F&ring=74ACDF&fire=F6C344&currStreakNum=EAF7FF&sideNums=EAF7FF&currStreakLabel=74ACDF&sideLabels=74ACDF&dates=94A3B8"
 alt="GitHub Streak"
 />
-
-</div>
-
-<br/>
-
-<!-- ========================================================= -->
-
-<!--                        TROPHIES                           -->
-
-<!-- ========================================================= -->
-
-<div align="center">
-
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=rect&height=85&color=0:000000,18:2C0000,38:8B0000,58:DC2626,78:F97316,100:FACC15&text=ACHIEVEMENT%20CABINET&fontColor=FFFFFF&fontSize=25&fontAlignY=53"
-  alt="Achievement Cabinet"
-/>
-
-<br/><br/>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img
-    width="100%"
-    src="https://github-profile-trophy.vercel.app/?username=IKM-Products&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6"
-    alt="IKM-Products GitHub Trophies"
-  />
-</a>
 
 </div>
 
