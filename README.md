@@ -347,17 +347,20 @@ alt="GitHub Streak"
 <div align="center">
 
 <img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=rect&height=85&color=0:0B1120,40:1E3A5F,70:74ACDF,100:F6C344&text=ACHIEVEMENT%20CABINET&fontColor=FFFFFF&fontSize=25&fontAlignY=53"
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&height=85&color=0:000000,18:2C0000,38:8B0000,58:DC2626,78:F97316,100:FACC15&text=ACHIEVEMENT%20CABINET&fontColor=FFFFFF&fontSize=25&fontAlignY=53"
+  alt="Achievement Cabinet"
 />
 
 <br/><br/>
 
-<img
-  width="100%"
-  src="./github-trophies.svg"
-  alt="IKM-Products GitHub Trophies"
-/>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img
+    width="100%"
+    src="https://github-profile-trophy.vercel.app/?username=IKM-Products&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6"
+    alt="IKM-Products GitHub Trophies"
+  />
+</a>
 
 </div>
 
