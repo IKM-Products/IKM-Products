@@ -3,18 +3,20 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:000000,18:2C0000,38:8B0000,58:DC2626,78:F97316,100:FACC15&text=ISMAEL%20KARKI%20MANAAY&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Computer%20Engineer%20%E2%80%A2%20Civil%20Sub-Engineer&descColor=FFF7D6&descSize=16&descAlignY=61&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,18:2C0000,38:8B0000,58:DC2626,78:F97316,100:FACC15&text=ISMAEL%20KARKI%20MANAAY&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Computer%20Engineer%20%E2%80%A2%20Civil%20Sub-Engineer&descColor=FFF7D6&descSize=16&descAlignY=61&animation=fadeIn"
   alt="Premium Fire Banner"
-/>
-</div>
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ismael-karki-manaay-9675213b4)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/vibes_ikm)
-[![Facebook](https://img.shields.io/badge/Facebook-Let's_Be_Friends-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://facebook.com/vibesikm)
+/><a href="https://www.linkedin.com/in/ismael-karki-manaay-9675213b4">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="https://instagram.com/vibes_ikm">
+<img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a><a href="https://facebook.com/vibesikm">
+<img src="https://img.shields.io/badge/Facebook-Let's_Be_Friends-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
 
+</div>
 <br/>
 
+<div align="center">
 <img
 src="https://komarev.com/ghpvc/?username=IKM-Products&label=PROFILE+VISITORS&color=74ACDF&style=flat-square&labelColor=0B1120"
 alt="Profile Visitors"
