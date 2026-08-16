@@ -39,7 +39,7 @@ const profile = {
   ],
 
   currentlyLearning: [
-    "Next.js",
+    "React Testing Library (RTL) and Vitest",
     "Go",
     "PostgreSQL",
   ],
