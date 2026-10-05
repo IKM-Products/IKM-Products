@@ -39,9 +39,9 @@ const profile = {
   ],
 
   currentlyLearning: [
-    "React Testing Library (RTL) and Vitest",
-    "Go",
-    "PostgreSQL",
+    "Coding",
+    "Debugging",
+    "Why it works",
   ],
 
   engineeringMindset: "Create. Read. Update. Delete.",
