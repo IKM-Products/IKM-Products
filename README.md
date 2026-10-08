@@ -86,16 +86,16 @@ Watch Pac-Man Journey
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/IKM-Products/IKM-Products/blob/output/pacman-contribution-graph-dark.svg?raw=true"
+    srcset="https://github.com/IKM-Products/IKM-Products/blob/output/pacman-contribution-graph-dark.svg?raw=true&theme=halloween"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github.com/IKM-Products/IKM-Products/blob/output/pacman-contribution-graph.svg?raw=true"
+    srcset="https://github.com/IKM-Products/IKM-Products/blob/output/pacman-contribution-graph.svg?raw=true&theme=halloween"
   />
   <img
     width="100%"
     alt="Pac-Man Contribution Graph"
-    src="https://github.com/IKM-Products/IKM-Products/blob/output/pacman-contribution-graph.svg?raw=true"
+    src="https://github.com/IKM-Products/IKM-Products/blob/output/pacman-contribution-graph.svg?raw=true&theme=halloween"
   />
 </picture>
 
